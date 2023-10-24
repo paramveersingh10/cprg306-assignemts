@@ -13,6 +13,8 @@ export default function Page()
                 <Link href="\week4">week4</Link>
                 <p></p>
                 <Link href="\week5">week5</Link>
+                <p></p>
+                <Link href="\week6">week6</Link>
             </div>  
         )
     }     
