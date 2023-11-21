@@ -3,6 +3,7 @@ import StudentInfo from './StudentInfo';
 export default function Page()
     {
         return (
+        
             <div>
                 <h1>CPRG 306: Web Development 2 - Assigments </h1>
                 <StudentInfo/>
@@ -17,6 +18,10 @@ export default function Page()
                 <Link href="\week6">week6</Link>
                 <p></p>
                 <Link href="\week7">week7</Link>
+                <p></p>
+                <Link href="\week8">week8</Link>
+                <p></p>
+                <Link href="\week10">week10</Link>
             </div>  
         )
     }     
